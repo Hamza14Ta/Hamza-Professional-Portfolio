@@ -251,7 +251,7 @@ header .nav a:active{
 .education .container .timeline::before{
     content: '';
     width: 5px;
-    height: 1600px;
+    height: 1200px;
     background-color: var(--main-color);
     position: absolute;
     align-items: flex-start;
@@ -840,4 +840,5 @@ footer{
     }
 
 }
+
 
