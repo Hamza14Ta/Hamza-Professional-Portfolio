@@ -700,9 +700,13 @@ footer{
 
 
 
-@media(max-width: 1200px){
+@media(min-width: 1200px){
     .home{
         margin-bottom: 250px;
+    }
+
+    .navbar .menu{
+        display: blok;
     }
     /* .home .content{
         flex-direction: column-reverse;
@@ -836,3 +840,4 @@ footer{
     }
 
 }
+
