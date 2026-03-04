@@ -1,0 +1,1 @@
+alert("---------------------------IMPORTANT TO READ---------------------------\nDear Mr. Soulaiman El Hazzat\nThis is my professional Portfolio in English language, It was entirly created by me without any integrations of AI tools.\nBest regards,\nHAMZA TALEB")
