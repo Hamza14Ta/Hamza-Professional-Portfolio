@@ -251,7 +251,7 @@ header .nav a:active{
 .education .container .timeline::before{
     content: '';
     width: 5px;
-    height: 1000px;
+    height: 1600px;
     background-color: var(--main-color);
     position: absolute;
     align-items: flex-start;
@@ -704,10 +704,6 @@ footer{
     .home{
         margin-bottom: 250px;
     }
-
-    .navbar .menu{
-        display: flex;
-    }
     /* .home .content{
         flex-direction: column-reverse;
     }
@@ -830,17 +826,12 @@ footer{
         /* padding-top: 100px; */
     }
     .home .content .img{
-        width: 400px;
         transform: scale(.7) ;
         padding: 0;
-        margin: 50px;
+        margin-top: 50px;
     }
     .experience .container .excontent{
         transform: scale(.7);
         margin-top: -50px;
     }
-
 }
-
-
-
