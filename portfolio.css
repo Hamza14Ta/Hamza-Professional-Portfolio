@@ -66,7 +66,7 @@ header .logo span{
 }
 
 .navbar .menu{
-    display: flex;
+    display: none;
     width: 60%;
     padding: 20px;
     position: absolute;
@@ -834,4 +834,5 @@ footer{
         transform: scale(.7);
         margin-top: -50px;
     }
+
 }
